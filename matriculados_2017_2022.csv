@@ -1,0 +1,408 @@
+TITULACION;CURSO;MATRICULADOS
+4000-Grado en Historia;202122;275
+4000-Grado en Historia;202021;260
+4000-Grado en Historia;201920;248
+4000-Grado en Historia;201819;253
+4000-Grado en Historia;201718;244
+4001-Grado en Geografia y Ordenacion del Territorio;202122;103
+4001-Grado en Geografia y Ordenacion del Territorio;202021;97
+4001-Grado en Geografia y Ordenacion del Territorio;201920;105
+4001-Grado en Geografia y Ordenacion del Territorio;201819;108
+4001-Grado en Geografia y Ordenacion del Territorio;201718;113
+4002-Grado en Ciencias de la Actividad Fisica y del Deporte;202122;514
+4002-Grado en Ciencias de la Actividad Fisica y del Deporte;202021;508
+4002-Grado en Ciencias de la Actividad Fisica y del Deporte;201920;526
+4002-Grado en Ciencias de la Actividad Fisica y del Deporte;201819;565
+4002-Grado en Ciencias de la Actividad Fisica y del Deporte;201718;565
+4003-Grado en Traduccion e Interpretacion: Ingles-Aleman;202122;171
+4003-Grado en Traduccion e Interpretacion: Ingles-Aleman;202021;172
+4003-Grado en Traduccion e Interpretacion: Ingles-Aleman;201920;192
+4003-Grado en Traduccion e Interpretacion: Ingles-Aleman;201819;219
+4003-Grado en Traduccion e Interpretacion: Ingles-Aleman;201718;235
+4004-Grado en Traduccion e Interpretacion: Ingles-Frances;202122;256
+4004-Grado en Traduccion e Interpretacion: Ingles-Frances;202021;253
+4004-Grado en Traduccion e Interpretacion: Ingles-Frances;201920;251
+4004-Grado en Traduccion e Interpretacion: Ingles-Frances;201819;282
+4004-Grado en Traduccion e Interpretacion: Ingles-Frances;201718;282
+4005-Grado en Administracion y Direccion de Empresas;202122;1002
+4005-Grado en Administracion y Direccion de Empresas;202021;974
+4005-Grado en Administracion y Direccion de Empresas;201920;990
+4005-Grado en Administracion y Direccion de Empresas;201819;1130
+4005-Grado en Administracion y Direccion de Empresas;201718;1271
+4006-Grado en Ciencias del Mar;202122;276
+4006-Grado en Ciencias del Mar;202021;278
+4006-Grado en Ciencias del Mar;201920;265
+4006-Grado en Ciencias del Mar;201819;235
+4006-Grado en Ciencias del Mar;201718;270
+4007-Grado en Economia;202122;254
+4007-Grado en Economia;202021;272
+4007-Grado en Economia;201920;273
+4007-Grado en Economia;201819;280
+4007-Grado en Economia;201718;295
+4008-Grado en Ingenieria Informatica;202122;665
+4008-Grado en Ingenieria Informatica;202021;643
+4008-Grado en Ingenieria Informatica;201920;632
+4008-Grado en Ingenieria Informatica;201819;609
+4008-Grado en Ingenieria Informatica;201718;576
+4009-Grado en Lengua Espanola y Literaturas Hispanicas;202122;307
+4009-Grado en Lengua Espanola y Literaturas Hispanicas;202021;269
+4009-Grado en Lengua Espanola y Literaturas Hispanicas;201920;307
+4009-Grado en Lengua Espanola y Literaturas Hispanicas;201819;336
+4009-Grado en Lengua Espanola y Literaturas Hispanicas;201718;353
+4010-Grado en Lenguas Modernas;202122;465
+4010-Grado en Lenguas Modernas;202021;465
+4010-Grado en Lenguas Modernas;201920;446
+4010-Grado en Lenguas Modernas;201819;460
+4010-Grado en Lenguas Modernas;201718;453
+4011-Grado en Relaciones Laborales y Recursos Humanos;202122;408
+4011-Grado en Relaciones Laborales y Recursos Humanos;202021;496
+4011-Grado en Relaciones Laborales y Recursos Humanos;201920;533
+4011-Grado en Relaciones Laborales y Recursos Humanos;201819;510
+4011-Grado en Relaciones Laborales y Recursos Humanos;201718;495
+4012-Grado en Seguridad y Control de Riesgos (No Presencial);202122;284
+4012-Grado en Seguridad y Control de Riesgos (No Presencial);202021;297
+4012-Grado en Seguridad y Control de Riesgos (No Presencial);201920;267
+4012-Grado en Seguridad y Control de Riesgos (No Presencial);201819;264
+4012-Grado en Seguridad y Control de Riesgos (No Presencial);201718;291
+4013-Grado en Turismo;202122;554
+4013-Grado en Turismo;202021;588
+4013-Grado en Turismo;201920;627
+4013-Grado en Turismo;201819;652
+4013-Grado en Turismo;201718;690
+4014-Grado en Fisioterapia;202122;286
+4014-Grado en Fisioterapia;202021;277
+4014-Grado en Fisioterapia;201920;283
+4014-Grado en Fisioterapia;201819;291
+4014-Grado en Fisioterapia;201718;296
+4015-Grado en Derecho;202122;1551
+4015-Grado en Derecho;202021;1481
+4015-Grado en Derecho;201920;1423
+4015-Grado en Derecho;201819;1599
+4015-Grado en Derecho;201718;1753
+4016-Grado en Educacion Infantil;202122;491
+4016-Grado en Educacion Infantil;202021;484
+4016-Grado en Educacion Infantil;201920;489
+4016-Grado en Educacion Infantil;201819;501
+4016-Grado en Educacion Infantil;201718;512
+4017-Grado en Educacion Primaria;202122;912
+4017-Grado en Educacion Primaria;202021;884
+4017-Grado en Educacion Primaria;201920;941
+4017-Grado en Educacion Primaria;201819;900
+4017-Grado en Educacion Primaria;201718;912
+4018-Grado en Educacion Social;202122;263
+4018-Grado en Educacion Social;202021;262
+4018-Grado en Educacion Social;201920;274
+4018-Grado en Educacion Social;201819;250
+4018-Grado en Educacion Social;201718;256
+4019-Grado en Ingenieria Civil;202122;87
+4019-Grado en Ingenieria Civil;202021;113
+4019-Grado en Ingenieria Civil;201920;119
+4019-Grado en Ingenieria Civil;201819;148
+4019-Grado en Ingenieria Civil;201718;190
+4020-Grado en Trabajo Social;202122;432
+4020-Grado en Trabajo Social;202021;416
+4020-Grado en Trabajo Social;201920;419
+4020-Grado en Trabajo Social;201819;412
+4020-Grado en Trabajo Social;201718;408
+4021-Grado en Ingenieria Geomatica y Topografia;201920;5
+4021-Grado en Ingenieria Geomatica y Topografia;201819;12
+4021-Grado en Ingenieria Geomatica y Topografia;201718;15
+4022-Grado en Ingenieria en Diseno Industrial y Desarrollo de Productos;202122;275
+4022-Grado en Ingenieria en Diseno Industrial y Desarrollo de Productos;202021;269
+4022-Grado en Ingenieria en Diseno Industrial y Desarrollo de Productos;201920;281
+4022-Grado en Ingenieria en Diseno Industrial y Desarrollo de Productos;201819;303
+4022-Grado en Ingenieria en Diseno Industrial y Desarrollo de Productos;201718;331
+4024-Grado en Enfermeria (Gran Canaria);202122;586
+4024-Grado en Enfermeria (Gran Canaria);202021;579
+4024-Grado en Enfermeria (Gran Canaria);201920;593
+4024-Grado en Enfermeria (Gran Canaria);201819;592
+4024-Grado en Enfermeria (Gran Canaria);201718;576
+4025-Grado en Veterinaria;202122;431
+4025-Grado en Veterinaria;202021;424
+4025-Grado en Veterinaria;201920;446
+4025-Grado en Veterinaria;201819;448
+4025-Grado en Veterinaria;201718;454
+4026-Grado en Ingenieria Quimica;202122;130
+4026-Grado en Ingenieria Quimica;202021;130
+4026-Grado en Ingenieria Quimica;201920;141
+4026-Grado en Ingenieria Quimica;201819;153
+4026-Grado en Ingenieria Quimica;201718;177
+4027-Grado en Ingenieria en Organizacion Industrial;202122;173
+4027-Grado en Ingenieria en Organizacion Industrial;202021;167
+4027-Grado en Ingenieria en Organizacion Industrial;201920;174
+4027-Grado en Ingenieria en Organizacion Industrial;201819;194
+4027-Grado en Ingenieria en Organizacion Industrial;201718;198
+4028-Grado en Ingenieria en Tecnologia Naval;202122;94
+4028-Grado en Ingenieria en Tecnologia Naval;202021;102
+4028-Grado en Ingenieria en Tecnologia Naval;201920;124
+4028-Grado en Ingenieria en Tecnologia Naval;201819;152
+4028-Grado en Ingenieria en Tecnologia Naval;201718;173
+4029-Grado en Medicina;202122;863
+4029-Grado en Medicina;202021;849
+4029-Grado en Medicina;201920;847
+4029-Grado en Medicina;201819;851
+4029-Grado en Medicina;201718;870
+4030-Grado en Enfermeria (Lanzarote);202122;199
+4030-Grado en Enfermeria (Lanzarote);202021;204
+4030-Grado en Enfermeria (Lanzarote);201920;197
+4030-Grado en Enfermeria (Lanzarote);201819;195
+4030-Grado en Enfermeria (Lanzarote);201718;185
+4031-Grado en Enfermeria (Fuerteventura);202122;185
+4031-Grado en Enfermeria (Fuerteventura);202021;185
+4031-Grado en Enfermeria (Fuerteventura);201920;169
+4031-Grado en Enfermeria (Fuerteventura);201819;178
+4031-Grado en Enfermeria (Fuerteventura);201718;187
+4032-Grado en Turismo (Lanzarote);202122;150
+4032-Grado en Turismo (Lanzarote);202021;173
+4032-Grado en Turismo (Lanzarote);201920;205
+4032-Grado en Turismo (Lanzarote);201819;200
+4032-Grado en Turismo (Lanzarote);201718;228
+4033-Grado en Turismo (No Presencial);202122;63
+4033-Grado en Turismo (No Presencial);202021;77
+4033-Grado en Turismo (No Presencial);201920;82
+4033-Grado en Turismo (No Presencial);201819;90
+4033-Grado en Turismo (No Presencial);201718;103
+4034-Grado en Trabajo Social (No Presencial);202122;205
+4034-Grado en Trabajo Social (No Presencial);202021;189
+4034-Grado en Trabajo Social (No Presencial);201920;144
+4034-Grado en Trabajo Social (No Presencial);201819;131
+4034-Grado en Trabajo Social (No Presencial);201718;149
+4035-Grado en Relaciones Laborales y Recursos Humanos (No Presencial);202122;284
+4035-Grado en Relaciones Laborales y Recursos Humanos (No Presencial);202021;297
+4035-Grado en Relaciones Laborales y Recursos Humanos (No Presencial);201920;267
+4035-Grado en Relaciones Laborales y Recursos Humanos (No Presencial);201819;292
+4035-Grado en Relaciones Laborales y Recursos Humanos (No Presencial);201718;273
+4036-Grado en Educacion Primaria (No Presencial);202122;815
+4036-Grado en Educacion Primaria (No Presencial);202021;789
+4036-Grado en Educacion Primaria (No Presencial);201920;698
+4036-Grado en Educacion Primaria (No Presencial);201819;656
+4036-Grado en Educacion Primaria (No Presencial);201718;623
+4037-Grado en Ingenieria en Tecnologias de la Telecomunicacion;202122;217
+4037-Grado en Ingenieria en Tecnologias de la Telecomunicacion;202021;215
+4037-Grado en Ingenieria en Tecnologias de la Telecomunicacion;201920;245
+4037-Grado en Ingenieria en Tecnologias de la Telecomunicacion;201819;251
+4037-Grado en Ingenieria en Tecnologias de la Telecomunicacion;201718;275
+4039-Grado en Arquitectura;202122;397
+4039-Grado en Arquitectura;202021;401
+4039-Grado en Arquitectura;201920;466
+4039-Grado en Arquitectura;201819;504
+4039-Grado en Arquitectura;201718;537
+4040-Grado en Ingenieria Electrica;202122;134
+4040-Grado en Ingenieria Electrica;202021;135
+4040-Grado en Ingenieria Electrica;201920;147
+4040-Grado en Ingenieria Electrica;201819;176
+4040-Grado en Ingenieria Electrica;201718;185
+4041-Grado en Ingenieria Electronica Industrial y Automatica;202122;149
+4041-Grado en Ingenieria Electronica Industrial y Automatica;202021;174
+4041-Grado en Ingenieria Electronica Industrial y Automatica;201920;184
+4041-Grado en Ingenieria Electronica Industrial y Automatica;201819;198
+4041-Grado en Ingenieria Electronica Industrial y Automatica;201718;213
+4042-Grado en Ingenieria Mecanica;202122;294
+4042-Grado en Ingenieria Mecanica;202021;311
+4042-Grado en Ingenieria Mecanica;201920;331
+4042-Grado en Ingenieria Mecanica;201819;370
+4042-Grado en Ingenieria Mecanica;201718;401
+4043-Grado en Ingenieria Quimica Industrial;202122;58
+4043-Grado en Ingenieria Quimica Industrial;202021;61
+4043-Grado en Ingenieria Quimica Industrial;201920;60
+4043-Grado en Ingenieria Quimica Industrial;201819;61
+4043-Grado en Ingenieria Quimica Industrial;201718;64
+4044-Grado en Ingenieria Geomatica;202122;23
+4044-Grado en Ingenieria Geomatica;202021;16
+4044-Grado en Ingenieria Geomatica;201920;21
+4044-Grado en Ingenieria Geomatica;201819;17
+4044-Grado en Ingenieria Geomatica;201718;15
+4045-Grado en Ciencia e Ingenieria de Datos;202122;84
+4045-Grado en Ciencia e Ingenieria de Datos;202021;48
+4800-Programa de doble titulacion: Grado en Traduccion e Interpretacion: Ingles-Aleman y Grado en Traduccion e Interpretacion: Ingles-Frances;202122;46
+4800-Programa de doble titulacion: Grado en Traduccion e Interpretacion: Ingles-Aleman y Grado en Traduccion e Interpretacion: Ingles-Frances;202021;50
+4800-Programa de doble titulacion: Grado en Traduccion e Interpretacion: Ingles-Aleman y Grado en Traduccion e Interpretacion: Ingles-Frances;201920;59
+4800-Programa de doble titulacion: Grado en Traduccion e Interpretacion: Ingles-Aleman y Grado en Traduccion e Interpretacion: Ingles-Frances;201819;70
+4800-Programa de doble titulacion: Grado en Traduccion e Interpretacion: Ingles-Aleman y Grado en Traduccion e Interpretacion: Ingles-Frances;201718;74
+4801-Programa de doble titulacion: Grado en Ingenieria Informatica y Grado en Administracion y Direccion de Empresas;202122;39
+4801-Programa de doble titulacion: Grado en Ingenieria Informatica y Grado en Administracion y Direccion de Empresas;202021;49
+4801-Programa de doble titulacion: Grado en Ingenieria Informatica y Grado en Administracion y Direccion de Empresas;201920;62
+4801-Programa de doble titulacion: Grado en Ingenieria Informatica y Grado en Administracion y Direccion de Empresas;201819;83
+4801-Programa de doble titulacion: Grado en Ingenieria Informatica y Grado en Administracion y Direccion de Empresas;201718;86
+4802-Programa de doble titulacion: Grado en Administracion y Direccion de Empresas y Grado en Derecho;202122;191
+4802-Programa de doble titulacion: Grado en Administracion y Direccion de Empresas y Grado en Derecho;202021;187
+4802-Programa de doble titulacion: Grado en Administracion y Direccion de Empresas y Grado en Derecho;201920;196
+4802-Programa de doble titulacion: Grado en Administracion y Direccion de Empresas y Grado en Derecho;201819;197
+4802-Programa de doble titulacion: Grado en Administracion y Direccion de Empresas y Grado en Derecho;201718;197
+4803-Programa de doble titulacion: Grado en Ingenieria en Tecnologia de la Telecomunicacion y Grado en Administracion y Direccion de Empresas;202122;21
+4803-Programa de doble titulacion: Grado en Ingenieria en Tecnologia de la Telecomunicacion y Grado en Administracion y Direccion de Empresas;202021;10
+4803-Programa de doble titulacion: Grado en Ingenieria en Tecnologia de la Telecomunicacion y Grado en Administracion y Direccion de Empresas;201920;8
+4803-Programa de doble titulacion: Grado en Ingenieria en Tecnologia de la Telecomunicacion y Grado en Administracion y Direccion de Empresas;201819;10
+4803-Programa de doble titulacion: Grado en Ingenieria en Tecnologia de la Telecomunicacion y Grado en Administracion y Direccion de Empresas;201718;6
+4804-Programa de doble titulacion: Grado en Ingenieria en Organizacion Industrial y Grado en Administracion y Direccion de Empresas;202122;27
+4804-Programa de doble titulacion: Grado en Ingenieria en Organizacion Industrial y Grado en Administracion y Direccion de Empresas;202021;18
+4804-Programa de doble titulacion: Grado en Ingenieria en Organizacion Industrial y Grado en Administracion y Direccion de Empresas;201920;14
+4804-Programa de doble titulacion: Grado en Ingenieria en Organizacion Industrial y Grado en Administracion y Direccion de Empresas;201819;17
+4804-Programa de doble titulacion: Grado en Ingenieria en Organizacion Industrial y Grado en Administracion y Direccion de Empresas;201718;12
+4805-Programa de doble titulacion: Grado en Traduccion e Interpretacion (Ingles-Aleman) y Grado en Turismo;202122;50
+4805-Programa de doble titulacion: Grado en Traduccion e Interpretacion (Ingles-Aleman) y Grado en Turismo;202021;43
+4805-Programa de doble titulacion: Grado en Traduccion e Interpretacion (Ingles-Aleman) y Grado en Turismo;201920;35
+4805-Programa de doble titulacion: Grado en Traduccion e Interpretacion (Ingles-Aleman) y Grado en Turismo;201819;22
+4806-Programa de doble titulacion: Grado en Administracion y Direccion de Empresa y Grado en Turismo;202122;55
+4806-Programa de doble titulacion: Grado en Administracion y Direccion de Empresa y Grado en Turismo;202021;39
+4806-Programa de doble titulacion: Grado en Administracion y Direccion de Empresa y Grado en Turismo;201920;20
+5002-Master Universitario en Gestion Costera;201920;1
+5002-Master Universitario en Gestion Costera;201819;7
+5002-Master Universitario en Gestion Costera;201718;11
+5003-Master Universitario en Banca y Finanzas;202021;3
+5003-Master Universitario en Banca y Finanzas;201920;4
+5003-Master Universitario en Banca y Finanzas;201819;16
+5003-Master Universitario en Banca y Finanzas;201718;23
+5005-Master Universitario en Sistemas Inteligentes y Aplicaciones Numericas en Ingenieria;202122;25
+5005-Master Universitario en Sistemas Inteligentes y Aplicaciones Numericas en Ingenieria;202021;22
+5005-Master Universitario en Sistemas Inteligentes y Aplicaciones Numericas en Ingenieria;201920;17
+5005-Master Universitario en Sistemas Inteligentes y Aplicaciones Numericas en Ingenieria;201819;17
+5005-Master Universitario en Sistemas Inteligentes y Aplicaciones Numericas en Ingenieria;201718;16
+5008-Master Universitario en Espanol y su Cultura: Desarrollos Profesionales y Empresariales.;202122;14
+5008-Master Universitario en Espanol y su Cultura: Desarrollos Profesionales y Empresariales.;202021;41
+5008-Master Universitario en Espanol y su Cultura: Desarrollos Profesionales y Empresariales.;201920;43
+5008-Master Universitario en Espanol y su Cultura: Desarrollos Profesionales y Empresariales.;201819;33
+5008-Master Universitario en Espanol y su Cultura: Desarrollos Profesionales y Empresariales.;201718;23
+5009-Master Universitario en Formacion del Profesorado de Educacion Secundaria Obligatoria y Bachillerato, Formacion Profesional y Ensenanza de Idiomas por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;201718;20
+5010-Master Universitario en Clinica Veterinaria e Investigacion Terapeutica;201718;9
+5011-Master Universitario en Traduccion Profesional y Mediacion Intercultural.;202122;43
+5011-Master Universitario en Traduccion Profesional y Mediacion Intercultural.;202021;39
+5011-Master Universitario en Traduccion Profesional y Mediacion Intercultural.;201920;40
+5011-Master Universitario en Traduccion Profesional y Mediacion Intercultural.;201819;27
+5011-Master Universitario en Traduccion Profesional y Mediacion Intercultural.;201718;20
+5012-Master Universitario en Prevencion de Riesgos Laborales(No presencial);201718;2
+5013-Master Universitario en Cultivos Marinos;202122;18
+5013-Master Universitario en Cultivos Marinos;202021;18
+5013-Master Universitario en Cultivos Marinos;201920;19
+5013-Master Universitario en Cultivos Marinos;201819;24
+5013-Master Universitario en Cultivos Marinos;201718;9
+5014-Master Universitario en Gestion Sostenible de Recursos Pesqueros;202122;8
+5014-Master Universitario en Gestion Sostenible de Recursos Pesqueros;202021;6
+5014-Master Universitario en Gestion Sostenible de Recursos Pesqueros;201920;1
+5014-Master Universitario en Gestion Sostenible de Recursos Pesqueros;201819;1
+5014-Master Universitario en Gestion Sostenible de Recursos Pesqueros;201718;7
+5015-Master Universitario en Tecnologias de Telecomunicacion;202021;4
+5015-Master Universitario en Tecnologias de Telecomunicacion;201920;10
+5015-Master Universitario en Tecnologias de Telecomunicacion;201819;14
+5015-Master Universitario en Tecnologias de Telecomunicacion;201718;8
+5016-Master Universitario en Arqueologia;201718;1
+5020-Master Universitario en Sanidad Animal y Seguridad Alimentaria;202122;22
+5020-Master Universitario en Sanidad Animal y Seguridad Alimentaria;202021;17
+5020-Master Universitario en Sanidad Animal y Seguridad Alimentaria;201920;19
+5020-Master Universitario en Sanidad Animal y Seguridad Alimentaria;201819;20
+5020-Master Universitario en Sanidad Animal y Seguridad Alimentaria;201718;24
+5022-Master Universitario en Tecnologias Industriales;201920;1
+5022-Master Universitario en Tecnologias Industriales;201819;4
+5022-Master Universitario en Tecnologias Industriales;201718;10
+5023-Master Universitario en Ingenieria de Telecomunicacion;202122;25
+5023-Master Universitario en Ingenieria de Telecomunicacion;202021;20
+5023-Master Universitario en Ingenieria de Telecomunicacion;201920;15
+5023-Master Universitario en Ingenieria de Telecomunicacion;201819;13
+5023-Master Universitario en Ingenieria de Telecomunicacion;201718;21
+5024-Master Universitario en Soluciones TIC para Bienestar y Medio Ambiente;202122;13
+5024-Master Universitario en Soluciones TIC para Bienestar y Medio Ambiente;202021;10
+5024-Master Universitario en Soluciones TIC para Bienestar y Medio Ambiente;201920;11
+5024-Master Universitario en Soluciones TIC para Bienestar y Medio Ambiente;201819;11
+5024-Master Universitario en Soluciones TIC para Bienestar y Medio Ambiente;201718;11
+5025-Master Universitario en Eficiencia Energetica;202021;5
+5025-Master Universitario en Eficiencia Energetica;201920;7
+5025-Master Universitario en Eficiencia Energetica;201819;8
+5025-Master Universitario en Eficiencia Energetica;201718;17
+5027-Master Universitario en Economia del Turismo, del Transporte y del Medio Ambiente;202122;9
+5027-Master Universitario en Economia del Turismo, del Transporte y del Medio Ambiente;202021;7
+5027-Master Universitario en Economia del Turismo, del Transporte y del Medio Ambiente;201920;17
+5027-Master Universitario en Economia del Turismo, del Transporte y del Medio Ambiente;201819;24
+5027-Master Universitario en Economia del Turismo, del Transporte y del Medio Ambiente;201718;16
+5028-Master Universitario en Gestion del Patrimonio Artistico y Arquitectonico, Museos y Mercado del Arte;202122;30
+5028-Master Universitario en Gestion del Patrimonio Artistico y Arquitectonico, Museos y Mercado del Arte;202021;37
+5028-Master Universitario en Gestion del Patrimonio Artistico y Arquitectonico, Museos y Mercado del Arte;201920;30
+5028-Master Universitario en Gestion del Patrimonio Artistico y Arquitectonico, Museos y Mercado del Arte;201819;26
+5028-Master Universitario en Gestion del Patrimonio Artistico y Arquitectonico, Museos y Mercado del Arte;201718;29
+5029-Master Universitario en Relaciones Hispano Africanas.;202122;30
+5029-Master Universitario en Relaciones Hispano Africanas.;202021;15
+5029-Master Universitario en Relaciones Hispano Africanas.;201920;15
+5029-Master Universitario en Relaciones Hispano Africanas.;201819;14
+5029-Master Universitario en Relaciones Hispano Africanas.;201718;10
+5030-Master Universitario en Marketing y Comercio Internacional.;202122;51
+5030-Master Universitario en Marketing y Comercio Internacional.;202021;42
+5030-Master Universitario en Marketing y Comercio Internacional.;201920;35
+5030-Master Universitario en Marketing y Comercio Internacional.;201819;37
+5030-Master Universitario en Marketing y Comercio Internacional.;201718;33
+5031-Master Universitario en Contabilidad, Auditoria y Fiscalidad Empresarial.;202122;20
+5031-Master Universitario en Contabilidad, Auditoria y Fiscalidad Empresarial.;202021;28
+5031-Master Universitario en Contabilidad, Auditoria y Fiscalidad Empresarial.;201920;29
+5031-Master Universitario en Contabilidad, Auditoria y Fiscalidad Empresarial.;201819;32
+5031-Master Universitario en Contabilidad, Auditoria y Fiscalidad Empresarial.;201718;29
+5032-Master Universitario en Patrimonio Historico, Cultural y Natural.;202122;23
+5032-Master Universitario en Patrimonio Historico, Cultural y Natural.;202021;20
+5032-Master Universitario en Patrimonio Historico, Cultural y Natural.;201920;14
+5032-Master Universitario en Patrimonio Historico, Cultural y Natural.;201819;7
+5032-Master Universitario en Patrimonio Historico, Cultural y Natural.;201718;10
+5034-Master Universitario en Direccion de Empresas y Recursos Humanos.;202122;36
+5034-Master Universitario en Direccion de Empresas y Recursos Humanos.;202021;50
+5034-Master Universitario en Direccion de Empresas y Recursos Humanos.;201920;39
+5034-Master Universitario en Direccion de Empresas y Recursos Humanos.;201819;39
+5034-Master Universitario en Direccion de Empresas y Recursos Humanos.;201718;39
+5035-Master Universitario en Mediacion Familiar y Sociocomunitaria.;201920;3
+5035-Master Universitario en Mediacion Familiar y Sociocomunitaria.;201819;10
+5035-Master Universitario en Mediacion Familiar y Sociocomunitaria.;201718;30
+5036-Master Universitario en Intervencion Familiar.;201920;4
+5036-Master Universitario en Intervencion Familiar.;201819;10
+5036-Master Universitario en Intervencion Familiar.;201718;36
+5037-Master Universitario en Bioetica y Bioderecho.;202122;21
+5037-Master Universitario en Bioetica y Bioderecho.;202021;17
+5037-Master Universitario en Bioetica y Bioderecho.;201920;20
+5037-Master Universitario en Bioetica y Bioderecho.;201819;18
+5037-Master Universitario en Bioetica y Bioderecho.;201718;17
+5038-Master Universitario en Ingenieria Informatica;202122;1
+5038-Master Universitario en Ingenieria Informatica;202021;1
+5038-Master Universitario en Ingenieria Informatica;201920;6
+5038-Master Universitario en Ingenieria Informatica;201819;18
+5038-Master Universitario en Ingenieria Informatica;201718;23
+5039-Master Universitario en Cultura Audiovisual y Literaria;202122;25
+5039-Master Universitario en Cultura Audiovisual y Literaria;202021;23
+5039-Master Universitario en Cultura Audiovisual y Literaria;201920;25
+5039-Master Universitario en Cultura Audiovisual y Literaria;201819;34
+5039-Master Universitario en Cultura Audiovisual y Literaria;201718;31
+5040-Master Universitario en Ingenieria Industrial por la Universidad de Las Palmas de Gran Canaria;202122;86
+5040-Master Universitario en Ingenieria Industrial por la Universidad de Las Palmas de Gran Canaria;202021;79
+5040-Master Universitario en Ingenieria Industrial por la Universidad de Las Palmas de Gran Canaria;201920;72
+5040-Master Universitario en Ingenieria Industrial por la Universidad de Las Palmas de Gran Canaria;201819;61
+5040-Master Universitario en Ingenieria Industrial por la Universidad de Las Palmas de Gran Canaria;201718;66
+5041-Master Universitario en Abogacia por la Universidad de Las Palmas de Gran Canaria;202122;156
+5041-Master Universitario en Abogacia por la Universidad de Las Palmas de Gran Canaria;202021;134
+5041-Master Universitario en Abogacia por la Universidad de Las Palmas de Gran Canaria;201920;183
+5041-Master Universitario en Abogacia por la Universidad de Las Palmas de Gran Canaria;201819;230
+5041-Master Universitario en Abogacia por la Universidad de Las Palmas de Gran Canaria;201718;188
+5042-Master Universitario en Arquitectura y Acondicionamiento con Tecnologias de Comunicaciones para Hoteles Sustentables;201819;1
+5042-Master Universitario en Arquitectura y Acondicionamiento con Tecnologias de Comunicaciones para Hoteles Sustentables;201718;2
+5043-Master Universitario en Desarrollo Integral de Destinos Turisticos por la Universidad de Las Palmas de Gran Canaria;201920;2
+5043-Master Universitario en Desarrollo Integral de Destinos Turisticos por la Universidad de Las Palmas de Gran Canaria;201819;11
+5043-Master Universitario en Desarrollo Integral de Destinos Turisticos por la Universidad de Las Palmas de Gran Canaria;201718;18
+5044-Master Universitario en Oceanografia por la Universidad de Cadiz, la Universidad de Las Palmas de Gran Canaria y la Universidad de Vigo;202122;16
+5044-Master Universitario en Oceanografia por la Universidad de Cadiz, la Universidad de Las Palmas de Gran Canaria y la Universidad de Vigo;202021;17
+5044-Master Universitario en Oceanografia por la Universidad de Cadiz, la Universidad de Las Palmas de Gran Canaria y la Universidad de Vigo;201920;29
+5044-Master Universitario en Oceanografia por la Universidad de Cadiz, la Universidad de Las Palmas de Gran Canaria y la Universidad de Vigo;201819;20
+5044-Master Universitario en Oceanografia por la Universidad de Cadiz, la Universidad de Las Palmas de Gran Canaria y la Universidad de Vigo;201718;14
+5045-Master Universitario en Formacion del Profesorado de Educacion Secundaria Obligatoria y Bachillerato, Formacion Profesional y Ensenanza de Idiomas por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;202122;329
+5045-Master Universitario en Formacion del Profesorado de Educacion Secundaria Obligatoria y Bachillerato, Formacion Profesional y Ensenanza de Idiomas por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;202021;331
+5045-Master Universitario en Formacion del Profesorado de Educacion Secundaria Obligatoria y Bachillerato, Formacion Profesional y Ensenanza de Idiomas por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;201920;345
+5045-Master Universitario en Formacion del Profesorado de Educacion Secundaria Obligatoria y Bachillerato, Formacion Profesional y Ensenanza de Idiomas por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;201819;357
+5045-Master Universitario en Formacion del Profesorado de Educacion Secundaria Obligatoria y Bachillerato, Formacion Profesional y Ensenanza de Idiomas por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;201718;298
+5046-Master Universitario en Prevencion de Riesgos Laborales por la Universidad de Las Palmas de Gran Canaria (No Presencial);202122;92
+5046-Master Universitario en Prevencion de Riesgos Laborales por la Universidad de Las Palmas de Gran Canaria (No Presencial);202021;96
+5046-Master Universitario en Prevencion de Riesgos Laborales por la Universidad de Las Palmas de Gran Canaria (No Presencial);201920;98
+5046-Master Universitario en Prevencion de Riesgos Laborales por la Universidad de Las Palmas de Gran Canaria (No Presencial);201819;82
+5046-Master Universitario en Prevencion de Riesgos Laborales por la Universidad de Las Palmas de Gran Canaria (No Presencial);201718;56
+5047-Master Universitario en Intervencion y Mediacion Familiar, Social y Comunitaria por la Universidad de La Laguna y por la Universidad de Las Palmas de Gran Canaria;202122;52
+5047-Master Universitario en Intervencion y Mediacion Familiar, Social y Comunitaria por la Universidad de La Laguna y por la Universidad de Las Palmas de Gran Canaria;202021;48
+5047-Master Universitario en Intervencion y Mediacion Familiar, Social y Comunitaria por la Universidad de La Laguna y por la Universidad de Las Palmas de Gran Canaria;201920;60
+5047-Master Universitario en Intervencion y Mediacion Familiar, Social y Comunitaria por la Universidad de La Laguna y por la Universidad de Las Palmas de Gran Canaria;201819;36
+5048-Master Universitario en Electronica y Telecomunicacion Aplicadas por la Universidad de Las Palmas de Gran Canaria;202122;11
+5048-Master Universitario en Electronica y Telecomunicacion Aplicadas por la Universidad de Las Palmas de Gran Canaria;202021;12
+5048-Master Universitario en Electronica y Telecomunicacion Aplicadas por la Universidad de Las Palmas de Gran Canaria;201920;9
+5049-Master Universitario en Tecnologias y Procesos Industriales Avanzados por la Universidad de Las Palmas de Gran Canaria;202122;25
+5049-Master Universitario en Tecnologias y Procesos Industriales Avanzados por la Universidad de Las Palmas de Gran Canaria;202021;15
+5050-Master Universitario en Aprendizaje integrado de contenidos en lengua extranjera (Ingles) por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;202122;19
+5050-Master Universitario en Aprendizaje integrado de contenidos en lengua extranjera (Ingles) por la Universidad de La Laguna y la Universidad de Las Palmas de Gran Canaria;202021;22
+5051-Master Universitario en Ensenanza de Espanol y su Cultura por la Universidad de Las Palmas de Gran Canaria;202122;21
